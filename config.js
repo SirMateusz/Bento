@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'csTimer',
+					link: 'https://cstimer.net/',
 				},
 				{
 					name: 'ArchWiki',
